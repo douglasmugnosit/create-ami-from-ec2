@@ -4,7 +4,7 @@
         {
             "Sid": "VisualEditor0",
             "Effect": "Allow",
-            "Action": "ec2:ModifyVolume",
+            "Action": "ec2:CreateImage",
             "Resource": "*"
         }
     ]
